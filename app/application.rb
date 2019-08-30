@@ -1,3 +1,4 @@
+reuqire 'pry'
 class Application
 
   def call(env)
